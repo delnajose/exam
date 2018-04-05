@@ -7,3 +7,5 @@ else
 echo "number is odd"
 fi
 
+
+echo "hai"
