@@ -31,3 +31,5 @@ exit
 fi
 done
 
+
+echo "hai"
