@@ -32,5 +32,4 @@ fi
 done
 
 
-echo "hai"
-echo "hello"
+
